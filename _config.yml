@@ -1,19 +1,12 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: HM Mods
+author: HM Ser
+url: https://rebrand.ly/abouthm # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+  HM Mods is an website for all those people who love experimenting with different apps. All those people who keep searching for modified apps, games and premium apks, Moddroid is the place for them. This is going to provide you all those apps and games which you’ve been searching for soo long but was unable to find them.
 permalink: /:slug
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "./logo.png" # relative path to site's favicon png GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
-
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
